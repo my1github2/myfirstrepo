@@ -1,28 +1,26 @@
-# This is a large heading
+# Andrzej Kolodziej
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Malmoe, in the state of Maryland, in Sweden.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *La Pest* by Albert Camus
+- *La politique* by Aristote
+- *Staten* by Platon
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Fouquet's in Paris.
+2. Le Procope in Paris.
+3. La Coupole in Paris.
+
+### Contact
+
+The best way to get in touch with me is: akkolodziej@gmail.com.
+
